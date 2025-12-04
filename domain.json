@@ -18,7 +18,8 @@
       "priority": 2,
       "domains": [
         "youtube.com",
-        "yandex.com"
+        "yandex.com",
+        "facebook.com"
       ]
     }
   ]
