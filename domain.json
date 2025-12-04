@@ -1,0 +1,25 @@
+{
+  "errno": 0,
+  "errmsg": "OK",
+  "generated_at": "2025-01-01 12:00:00",
+  "version": 1,
+  "domains": [
+    {
+      "name": "最新地址",
+      "desc": "",
+      "priority": 1,
+      "domains": [
+        "google.com"
+      ]
+    },
+    {
+      "name": "备用地址",
+      "desc": "若主域名不可访问，请尝试以下备用域名",
+      "priority": 2,
+      "domains": [
+        "youtube.com",
+        "yandex.com"
+      ]
+    }
+  ]
+}
