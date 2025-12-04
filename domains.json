@@ -1,0 +1,21 @@
+{
+    "errno": 0,
+    "errmsg": "OK",
+    "domains": [
+        {
+            "name": "最新地址",
+            "desc": "",
+            "domains": [
+                "google.com"
+            ]
+        },
+        {
+            "name": "备用地址",
+            "desc": "",
+            "domains": [
+                "yandex.com",
+                "bing.com"
+            ]
+        }
+    ]
+}
