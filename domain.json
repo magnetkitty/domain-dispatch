@@ -9,7 +9,7 @@
       "desc": "",
       "priority": 1,
       "domains": [
-        "google.com"
+        "www.magnetkitty.com"
       ]
     },
     {
@@ -17,11 +17,7 @@
       "desc": "若主域名不可访问，请尝试以下备用域名",
       "priority": 2,
       "domains": [
-        "youtube.com",
-        "yandex.com",
-        "github.com",
-        "x.com",
-        "cloudflare.com"
+        "www.magnetkitty.com"
       ]
     }
   ]
