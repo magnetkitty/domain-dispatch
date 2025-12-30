@@ -17,6 +17,14 @@
       "desc": "若主域名不可访问，请尝试以下备用域名",
       "priority": 2,
       "domains": [
+        "www.magnetkitty.top"
+      ]
+    },
+    {
+      "name": "备用地址",
+      "desc": "若主域名不可访问，请尝试以下备用域名",
+      "priority": 1,
+      "domains": [
         "www.magnetkitty.com"
       ]
     }
